@@ -1,7 +1,7 @@
 export const products = [{
         id :1,
         img : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/social/hoodwink.jpg",
-        link : "https://www.dota2.com/hero/hoodwink?l=vietnamese"
+        link : "https://laughing-heisenberg-24c87a.netlify.app/"
 
 },
 {
