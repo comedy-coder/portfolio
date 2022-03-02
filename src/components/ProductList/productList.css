@@ -1,0 +1,53 @@
+.p1
+{
+    padding: 50px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+.p1-text
+{
+    width: 65%;
+
+}
+.p1-title
+{
+    font-size: 50px;
+    font-weight: 600;
+}
+.p1-list{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+@media screen and (max-width : 480px) {
+    .p1 
+    {
+        padding: 10px;
+    }
+    .p1-text
+    {
+        height: 100%;
+    }
+    .p1-desc
+    {
+        display: none;
+    }
+}
+@media screen and (max-width : 1200px) {
+    .p1 
+    {
+        padding: 10px;
+    }
+    .p1-text
+    {
+        height: 100%;
+    }
+    .p1-desc
+    {
+        display: none;
+    }
+}
