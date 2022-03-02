@@ -7,25 +7,24 @@ export const products = [{
 {
     id :2,
     img : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/social/hoodwink.jpg",
-    link : "https://www.dota2.com/hero/hoodwink?l=vietnamese"
-
+    link : "https://hungry-curie-6fc11d.netlify.app"
 },
 {
     id :3,
     img : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/social/hoodwink.jpg",
-    link : "https://www.dota2.com/hero/hoodwink?l=vietnamese"
+    link : "https://comedy-coder.github.io/thanhdat-thegioididong.github.io/"
 
 },
 {
     id :4,
     img : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/social/hoodwink.jpg",
-    link : "https://www.dota2.com/hero/hoodwink?l=vietnamese"
+    link : "https://naughty-northcutt-7cb7cd.netlify.app/"
 
 },
 {
     id :5,
     img : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/social/hoodwink.jpg",
-    link : "https://www.dota2.com/hero/hoodwink?l=vietnamese",
+    link : "https://comedy-coder.github.io/thanhdat.shop.github.io",
 
     
 
