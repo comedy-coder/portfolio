@@ -3,6 +3,7 @@ import image02 from "./img/movie.png"
 import image03 from "./img/tggd.png"
 import image04 from "./img/weather.png"
 import image05 from "./img/shoope.png"
+import image06 from "./img/tiki.png"
 
 export const products = [{
         id :1,
@@ -37,7 +38,7 @@ export const products = [{
 },
 {
         id :6,
-        img : "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/social/hoodwink.jpg",
-        link : "https://www.dota2.com/hero/hoodwink?l=vietnamese"
+        img : image06,
+        link : "https://condescending-hamilton-ce27b9.netlify.app"
 
 }]
