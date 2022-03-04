@@ -24,9 +24,8 @@ export const products = [{
 },
 {
     id :4,
-    img : image04,
-    link : "https://naughty-northcutt-7cb7cd.netlify.app/"
-
+    img : image06,
+    link : "https://condescending-hamilton-ce27b9.netlify.app"
 },
 {
     id :5,
@@ -38,7 +37,7 @@ export const products = [{
 },
 {
         id :6,
-        img : image06,
-        link : "https://condescending-hamilton-ce27b9.netlify.app"
+        img : image04,
+        link : "https://naughty-northcutt-7cb7cd.netlify.app/"
 
 }]

@@ -6,10 +6,10 @@ function Productlist() {
         <div className ="p1">
             <div className="p1-text">
                 <h1 className="p1-title">
-                Create & inSpire Its KArma.s.s
+                Create & inSpire
            </h1>
                 <p className="p1-desc">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+                There are some projects i created during the time i started to learn to become a developer. Maybe Its have some a mistake but hopefully you enjoy it!! With reference document from another source on the internet. 
                 </p>
             </div>
             <div className="p1-list">
